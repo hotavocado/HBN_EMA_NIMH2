@@ -45,12 +45,6 @@
                 "schema:name": "another type of drink",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "none",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },

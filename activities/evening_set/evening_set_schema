@@ -743,7 +743,7 @@
             "headache_noise": "headache == 2",
             "headache_smell": "headache == 2",
             "headache_vision_changes": "headache == 2",
-            "headache_vision_change_time": "headache_vision_changes.includes(2) || headache_vision_changes.includes(3) || headache_vision_changes.includes(4)",
+            "headache_vision_change_time": "headache_vision_changes.includes(1) || headache_vision_changes.includes(2) || headache_vision_changes.includes(3)",
             "headache_numbing": "headache == 2",
             "headache_numbing_time": "headache_numbing == 1",
             "headache_confusing": "headache == 2",
