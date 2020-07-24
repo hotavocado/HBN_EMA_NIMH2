@@ -22,6 +22,11 @@
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "I did not receive an activity monitor",
+                "@type": "schema:option"
             }
         ]
     }

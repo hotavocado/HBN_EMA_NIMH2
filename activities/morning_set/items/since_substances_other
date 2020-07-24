@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "What **other drug** did you use?",
+    "question": "What **other drugs** did you use?",
     "responseOptions": {
         "choices": [
             {
@@ -39,7 +39,7 @@
             },
             {
                 "schema:value": 5,
-                "schema:name": "other drug",
+                "schema:name": "other drugs",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
             }
